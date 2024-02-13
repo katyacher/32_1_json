@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/32_1_json.dir/main.cpp.o  -o 32_1_json 

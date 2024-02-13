@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/CMakeFiles/json-populate
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/home/kate/skillbox/32_1_json/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule

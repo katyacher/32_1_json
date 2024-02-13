@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kate/skillbox/32_1_json/build",
+  "command": "/usr/bin/g++   -I/home/kate/skillbox/32_1_json/build/_deps/json-src/include  -g   -o CMakeFiles/32_1_json.dir/main.cpp.o -c /home/kate/skillbox/32_1_json/main.cpp",
+  "file": "/home/kate/skillbox/32_1_json/main.cpp"
+}
+]
