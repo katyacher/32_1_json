@@ -4,22 +4,8 @@
 #include <vector>
 #include <nlohmann/json.hpp>
 
-struct Film{
-    std::string title;
-    std::string country;
-    std::string date;
-    std::string studio;
-    std::string story_by;
-    std::string director;
-    std::string producer;
-    std::map<std::string, std::string> actros;
-};
-
 int main(int, char**){
     std::cout << "Hello, from 32_1_json.\n";
-
-    Film Film;
-    
 
     std::ofstream file("films.json");
 
