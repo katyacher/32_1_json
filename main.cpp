@@ -17,7 +17,7 @@ int main(int, char**){
         {"story_by","Guillaume Laurant,Jean-Pierre Jeunet"},
         {"director","Jean-Pierre Jeunet"},
         {"producer","Jean-Marc Deschamps,Claudie Ossard"},
-        {"actros", {
+        {"actors", {
             {"Audrey Tautou","Amélie Poulain"},
             {"Mathieu Kassovitz","Nino Quincampoix"},
             {"André Dussollier","The Narrator"},
