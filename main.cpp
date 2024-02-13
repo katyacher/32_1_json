@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <vector>
 #include <nlohmann/json.hpp>
 
 int main(int, char**){
