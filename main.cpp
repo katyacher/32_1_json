@@ -27,7 +27,7 @@ int main(int, char**){
         }}
     };
 
-    file << dict;
+    file << std::setw(4) << dict << std::endl;
 
     return 0;
 }
